@@ -7,6 +7,3 @@ A web-based discussion platform facilitating interaction and exchange of topics 
 ![home](https://github.com/kalvincalimag-dev/UoPFlipside/assets/121149046/677d9608-19fe-478d-9119-1c6b5b5c5751)
 ![prof](https://github.com/kalvincalimag-dev/UoPFlipside/assets/121149046/9586066a-1175-416b-b92a-1b922b17961b)
 
-# Screenshots (Mobile View)
-![Home Page MV Static](https://github.com/kalvincalimag-dev/UoPFlipside/assets/121149046/8ad1bc16-69c2-41fb-8ba8-86c23225752e)
-![Departments](https://github.com/kalvincalimag-dev/UoPFlipside/assets/121149046/3db96317-d1b7-4f6f-9c1a-8d8f6dad92ed)
